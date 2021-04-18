@@ -3,9 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="55fe27f6-401d-4e7d-a617-89498c618120" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TSoptional/Pack1/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TSoptional/Pack1/Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Documentation.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TSoptional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TSoptional.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TSoptional/Pack1/Compare$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TSoptional/Pack1/Compare$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TSoptional/Pack1/Compare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TSoptional/Pack1/Compare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TSoptional/Pack1/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TSoptional/Pack1/Pair.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TSoptional/Pack1/Proiect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TSoptional/Pack1/Proiect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TSoptional/input/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TSoptional/Pack2/FunctionalTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TSoptional/Pack2/FunctionalTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pack1/MainClass.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pack1/Proiect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pack1/Proiect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/input/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/input/FunctionalTesting/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Pack2/FunctionalTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Pack2/FunctionalTesting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,52 +49,98 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\info 3\TSoptional\src\input\FunctionalTesting" />
       <recent name="D:\info 3\TSoptional\src\input" />
       <recent name="D:\info 3\TSoptional\src\Pack1" />
       <recent name="D:\info 3\TSoptional\src" />
       <recent name="D:\info 3\TSoptional\input" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainClass">
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pack1.MainClass" />
+  <component name="RunManager" selected="JUnit.All in TSoptional">
+    <configuration name="All in TSoptional (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TSoptional" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pack1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proiect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pack1.Proiect" />
+    <configuration name="All in TSoptional" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TSoptional" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TSoptional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pack1.*" />
+          <option name="PATTERN" value="Pack2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Pack2" />
+      <option name="MAIN_CLASS_NAME" value="Pack2.FunctionalTesting" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalTesting.TestAssertionC111111112" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TSoptional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pack2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Pack2" />
+      <option name="MAIN_CLASS_NAME" value="Pack2.FunctionalTesting" />
+      <option name="METHOD_NAME" value="TestAssertionC111111112" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalTesting.TestAssertionC111121111" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TSoptional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pack2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Pack2" />
+      <option name="MAIN_CLASS_NAME" value="Pack2.FunctionalTesting" />
+      <option name="METHOD_NAME" value="TestAssertionC111121111" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.Proiect" />
+        <item itemvalue="JUnit.All in TSoptional" />
+        <item itemvalue="JUnit.FunctionalTesting" />
+        <item itemvalue="JUnit.All in TSoptional (2)" />
+        <item itemvalue="JUnit.FunctionalTesting.TestAssertionC111111112" />
+        <item itemvalue="JUnit.FunctionalTesting.TestAssertionC111121111" />
       </list>
     </recent_temporary>
   </component>
@@ -109,5 +165,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this.mihaela[lb].x" language="JAVA" />
+        <watch expression="this.mihaela[lb].y" />
+        <watch expression="this.profesor[rb].y" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TSproject$FunctionalTesting_TestEqualsC111111111.ic" NAME="FunctionalTesting.TestEqualsC111111111 Coverage Results" MODIFIED="1618581628375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Pack2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TSproject$All_in_TSoptional.ic" NAME="All in TSoptional Coverage Results" MODIFIED="1618587381017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TSproject$FunctionalTesting_TestOutOfBounds.ic" NAME="FunctionalTesting.TestOutOfBounds Coverage Results" MODIFIED="1618339442939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Pack2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TSproject$FunctionalTesting_TestBoundaryN1.ic" NAME="FunctionalTesting.TestBoundaryN1 Coverage Results" MODIFIED="1618583181135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Pack2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TSproject$All_in_TSoptional__2_.ic" NAME="All in TSoptional (2) Coverage Results" MODIFIED="1618587012369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TSproject$FunctionalTesting_TestCovEqualsC111111111.ic" NAME="FunctionalTesting.TestCovEqualsC111111111 Coverage Results" MODIFIED="1618583090526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Pack2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TSproject$All_in_TSoptional__1_.ic" NAME="All in TSoptional (1) Coverage Results" MODIFIED="1618586524086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
